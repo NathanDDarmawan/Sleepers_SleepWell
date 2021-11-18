@@ -8,6 +8,6 @@ Team: Sleepers
 
 Members: Nathaniel Davide Darmawan - 2502087830 , Gervasius Kevin - 2502036615
 
-Description of the app:
+Description of the app: "Sleep Well" is an app that tracks your sleep.
 
-Features:
+Features: Sleep
